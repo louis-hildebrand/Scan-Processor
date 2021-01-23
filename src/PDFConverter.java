@@ -1,4 +1,4 @@
-package louish.scan_process;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.net.MalformedURLException;

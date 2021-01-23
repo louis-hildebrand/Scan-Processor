@@ -1,4 +1,4 @@
-package louish.scan_process;
+
 import java.awt.Component;
 import java.awt.image.BufferedImage;
 import java.awt.image.ColorModel;
